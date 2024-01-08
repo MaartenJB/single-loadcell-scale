@@ -1,2 +1,2 @@
-# single-loadcell-scale
+# Single Loadcell Scale
 Single loadcell scale for Gaggiuino
