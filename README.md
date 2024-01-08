@@ -6,6 +6,7 @@ Cable (4core, 80°C)
 From old mouse (need update)
 
 Micro JST 2.0 PH 5-Pin Connector plug
+
 https://www.aliexpress.com/item/32855763468.html (for example)
 
 Stainless Steel Measuring Cup (80ml)
