@@ -1,4 +1,4 @@
-![image](Pictures/IMG20240107142729.jpg)
+![image](Pictures/full.jpg)
 
 # Single Loadcell Scale (Work in progress!!)
 Single loadcell scale for Gaggiuino
