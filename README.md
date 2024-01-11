@@ -3,6 +3,16 @@
 # Single Loadcell Scale (Work in progress!!)
 Single loadcell scale for Gaggiuino
 
+# Wiring diagram
+Need to make a diagram
+* Be sure to connect the data2 pin to ground, because the library used in gaggiuino checks the port status. If it sees the port is HIGH, than it assumes two loadcells. This can happen when you leave the port "floating/ungrounded".
+* Create a file called "extra_defines.ini" in de gaggiuino project root and add this:
+```
+[extra]
+build_flags = 
+  -DSINGLE_HX711_BOARD
+```
+
 # Parts
 * Cable (4-core, 80°C)
   - From old mouse, should be a higher temp wire ofcourse (need update)
