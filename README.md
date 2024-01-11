@@ -12,6 +12,10 @@ Need to make a diagram
 build_flags = 
   -DSINGLE_HX711_BOARD
 ```
+# PCB holder (WIP!!!)
+It's what I got right now, it isn't pretty, cause the design went trough various iterations. 
+You need to add the "DynamicData" plugin in FreeCAD via the "Addon Manager".
+* pcb-holder/Weegschaal_005.FCStd  [FreeCAD]
 
 # Parts
 * Cable (4-core, 80°C)
