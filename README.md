@@ -5,7 +5,8 @@ Single loadcell scale for the awsome Gaggiuino project. It is work in progress s
 
 # Wiring diagram
 Need to make a diagram
-* Be sure to connect the data2 pin to ground, because the library used in gaggiuino checks the port status. If it sees the port is HIGH, than it assumes two loadcells. This can happen when you leave the port "floating/ungrounded".
+* Be sure to connect the data2 pin to ground, because the library used in Gaggiuino checks the port status. If it sees the port is HIGH, than it assumes two loadcells. This can happen when you leave the port "floating/ungrounded".
+* Solder a 1K resistor between the VCC and SCK on the HX711 board. I used an SMD for this. (See pictures)
 * Create a file called "extra_defines.ini" in de gaggiuino project root and add this:
 ```
 [extra]
@@ -35,6 +36,7 @@ You need to add the "DynamicData" plugin in FreeCAD via the "Addon Manager".
 * Plexiglas
 * 3M 15 VHB tape GPH110 pads
   - https://www.amazon.nl/dp/B09XFDRHXW
+* 1K resistor
 
 # Tools:
 
