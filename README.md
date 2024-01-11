@@ -3,6 +3,8 @@
 # Single Loadcell Scale (Work in progress!!)
 Single loadcell scale for the awsome Gaggiuino project. It is work in progress so it may not work for you! The pcb holder is made in FreeCAD, and I uploaded the source file.
 
+Gaggiuino project: https://gaggiuino.github.io/
+
 # Wiring diagram
 Need to make a diagram
 * Be sure to connect the data2 pin to ground, because the library used in Gaggiuino checks the port status. If it sees the port is HIGH, than it assumes two loadcells. This can happen when you leave the port "floating/ungrounded".
