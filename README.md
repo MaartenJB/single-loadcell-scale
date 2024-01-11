@@ -31,7 +31,7 @@ You need to add the "DynamicData" plugin in FreeCAD via the "Addon Manager".
 * Load Cell Module Weight Sensor (300g) (Not available anymore!)
   - https://www.aliexpress.com/item/1005006024363708.html
 * 1K resistor (SMD or THT)
-* Dual Channel HX711 Weighing Pressure Sensor
+* Dual Channel HX711 Weighing Pressure Sensor (This is the smallest I could find)
   - https://www.aliexpress.com/item/1005005258484244.html
 * 4x M3x8mm-Screw (ISO 10642?)
 * 8x M3-Washer (ISO 7089?)
