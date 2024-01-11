@@ -42,6 +42,7 @@ You need to add the "DynamicData" plugin in FreeCAD via the "Addon Manager".
 * Drill
 * Drillbit 3mm
 * JST Crimping tool - PA-09  (Red)(1.0, 1.4, 1.6, 1.9) (Not cheap, works great)
+* etc.
 
 # Pictures
 ![image](Pictures/full.jpg)
