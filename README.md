@@ -54,7 +54,7 @@ You need to add the "DynamicData" plugin in FreeCAD via the "Addon Manager".
 ![image](Pictures/HX711_B.jpg)
 ![image](Pictures/HX711_C.jpg)
 ![image](Pictures/bolts.jpg)
-![image](Pictures/gaggia.jpg)
+![image](Pictures/gaggia-800x450.jpg)
 
 # CAP is also in progress
 I'm currently thinking of sticking it on with heat resistant tape
