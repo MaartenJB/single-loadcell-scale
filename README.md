@@ -1,7 +1,7 @@
 ![image](Pictures/cup.jpg)
 
 # Single Loadcell Scale (Work in progress!!)
-Single loadcell scale for Gaggiuino
+Single loadcell scale for the awsome Gaggiuino project. It is work in progress so it may not work for you! The pcb holder is made in FreeCAD, and I uploaded the source file.
 
 # Wiring diagram
 Need to make a diagram
