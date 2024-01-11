@@ -1,4 +1,4 @@
-![image](Pictures/full.jpg)
+![image](Pictures/cup.jpg)
 
 # Single Loadcell Scale (Work in progress!!)
 Single loadcell scale for Gaggiuino
@@ -19,6 +19,8 @@ Single loadcell scale for Gaggiuino
 * 4x M3x8mm-Screw (ISO 10642?)
 * 8x M3-Washer (ISO 7089?)
 * Plexiglas
+* 3M 15 VHB tape GPH110 pads
+  - https://www.amazon.nl/dp/B09XFDRHXW
 
 # Tools:
 
@@ -26,4 +28,16 @@ Single loadcell scale for Gaggiuino
 * Drill
 * Drillbit 3mm
 * JST Crimping tool - PA-09  (Red)(1.0, 1.4, 1.6, 1.9) (Not cheap, works great)
+
+# Pictures
+![image](Pictures/full.jpg)
+![image](Pictures/HX711_A.jpg)
+![image](Pictures/HX711_B.jpg)
+![image](Pictures/HX711_C.jpg)
+![image](Pictures/bolts.jpg)
+
+# CAP is also in progress
+I'm currently thinking of sticking it on with heat resistant tape
+![image](Pictures/cutting.jpg)
+![image](Pictures/measuring-cup.jpg)
 
